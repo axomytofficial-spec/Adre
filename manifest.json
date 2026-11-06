@@ -1,0 +1,16 @@
+{
+  "name": "ADRE Grade 3 Mock Tests",
+  "short_name": "ADRE Mock",
+  "description": "Mock tests for ADRE Grade 3",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f2263",
+  "theme_color": "#0f2263",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
